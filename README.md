@@ -8,7 +8,8 @@ Python 2.7
 and Pygame
 
 Run:
-$ python project.py
+
+> $ python project.py
 
 Thats' it enjoy playing . 
 
